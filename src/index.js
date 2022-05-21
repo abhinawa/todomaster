@@ -2,7 +2,7 @@ import ReactDOM from 'react-dom';
 import React from 'react';
 import './index.css';
 
-// hello this is index
+
 
 class Addtask extends React.Component{
     render(){
@@ -26,7 +26,7 @@ class TaskList extends React.Component{
 
 class App extends React.Component{
     render(){
-        const name="abhinav"
+        const name="abhinavgo"
 
         return(
             <div>
