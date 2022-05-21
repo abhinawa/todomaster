@@ -2,6 +2,8 @@ import ReactDOM from 'react-dom';
 import React from 'react';
 import './index.css';
 
+// hello this is index
+
 class Addtask extends React.Component{
     render(){
         return(
