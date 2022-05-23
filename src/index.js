@@ -26,7 +26,7 @@ class TaskList extends React.Component{
 
 class App extends React.Component{
     render(){
-        const name="abhinavgo"
+        const name="abhinav"
 
         return(
             <div>
